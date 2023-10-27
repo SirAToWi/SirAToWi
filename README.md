@@ -1,6 +1,6 @@
-<h1 align="center">📌Thread => I'm Not A Life Coach</h1>
-<h2 align="center">What I am interested in!</h2>
-<h3 align="left">Programing \ Platform : </h3>
+<p><h1 align="center">📌Thread => I'm Not A Life Coach</h1> </p>
+<p><h2 align="center">What I am interested in!</h2> </p>
+<p><h3 align="left">Programing \ Platform : </h3> </p>
 <p align="center"> 
   <a  
     target="_blank" rel="noreferrer"> 
